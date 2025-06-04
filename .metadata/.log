@@ -1,0 +1,22 @@
+!SESSION 2025-06-03 23:57:43.846 -----------------------------------------------
+eclipse.buildId=Version 1.18.1
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/demian/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/demian/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-06-03 23:58:15.238
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-06-03 23:58:15.239
+!MESSAGE Log4j2 initialized with config file /Users/demian/STM32CubeIDE/workspace_1.18.1/PWM_grupo2/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-06-03 23:58:21.326
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-06-03 23:58:53.450
+!MESSAGE Indexed 'pwm' (36 sources, 139 headers) in 6.92 sec: 15,950 declarations; 90,520 references; 1 unresolved inclusions; 92 syntax errors; 240 unresolved names (0.22%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-06-04 00:03:03.837
+!MESSAGE Indexed 'desafio_pwm' (36 sources, 102 headers) in 7.31 sec: 9,073 declarations; 67,073 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0026%)
